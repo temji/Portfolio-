@@ -1,0 +1,41 @@
+body {
+  font-family: Bebas Neue;
+  margin: 5em;
+  background-image: url("https://cdn.glitch.me/f0e69c52-7b3c-40ce-8af8-28f635151cac%2Fclouds.gif?v=1636335683817");
+  background-size: cover;
+  color: #C04B65;
+  text-align: center;
+}
+
+h1 {
+  font-style: bold;
+  color: #C04B65;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
+  border: 0.5px solid #f08080;
+  border-radius: 10px;
+  background: white;
+ 
+  
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+
+  line-height:inherit;
+  white-space:nowrap;
+  color: white;
+  
+}
+
+#EstherBio{
+  border: 0.5px solid #f08080;
+  border-radius: 10px;
+  background: white;
+}
+
