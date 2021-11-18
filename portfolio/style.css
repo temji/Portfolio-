@@ -1,0 +1,27 @@
+body {
+  font-family: Bebas Neue;
+  margin: 5em;
+  background-image: url("https://cdn.glitch.me/f0e69c52-7b3c-40ce-8af8-28f635151cac%2Fclouds.gif?v=1636335683817");
+  background-size: cover;
+  color: #C04B65;
+  text-align: center;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
+ 
+  
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+
+  line-height:inherit;
+  white-space:nowrap;
+  color: white;
+  
+}
+
